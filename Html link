@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Jump to specific parts of a Web page.</h1>
+<p>This program will be helpful how to go user particular topic in lenthy web page.Here I have 8 chapters and notice that how to particular topic when you are reading another topic. </p>
+
+<h2 id="C1">HTML</h2>
+
+<p>HTML is the standard markup language for creating Web pages.</p>
+<ul>
+    <li>HTML stands for Hyper Text Markup Language</li>
+    <li>HTML describes the structure of Web pages using markup</li>
+    <li>HTML elements are the building blocks of HTML pages</li>
+    <li>HTML elements are represented by tags</li>
+    <li>HTML tags label pieces of content such as "heading", "paragraph", "table", and so on</li>
+    <li>Browsers do not display the HTML tags, but use them to render the content of the page</li>
+</ul>
+<p>If you would like to learn css<a href="#C2">click here</a></p>
+<p>If you would like to learn Javascript<a href="#C3">click here</a></p>
+<p>If you would like to learn Bootstrap<a href="#C4">click here</a></p>
+<p>If you would like to learn SQL<a href="#C5">click here</a></p>
+<p>If you would like to learn PHP 5<a href="#C6">click here</a></p>
+<p>If you would like to learn Node.js<a href="#C7">click here</a></p>
+<hr>
+<h2 id="C2">CSS</h2>
+<p>CSS is a language that describes the style of an HTML document.<br>
+
+CSS describes how HTML elements should be displayed.</p>
+<hr>
+<h2 id="C3">JavaScript</h2>
+<p>JavaScript is the programming language of HTML and the Web.</p>
+<p>JavaScript is easy to learn.</p>
+<hr>
+<h2 id="C4">Bootstrap</h2>
+<p>Bootstrap is the most popular HTML, CSS, and JavaScript framework for developing responsive, mobile-first web sites.</p>
+<hr>
+<h2 id="C5">SQL</h2>
+<p>SQL is a standard language for storing, manipulating and retrieving data in databases.
+</p>
+<p>
+Our SQL tutorial will teach you how to use SQL in: MySQL, SQL Server, MS Access, Oracle, Sybase, Informix, Postgres, and other database systems.</p>
+<hr>
+<h2 id="C6">PHP 5 </h2>
+<p>PHP is a server scripting language, and a powerful tool for making dynamic and interactive Web pages.</p>
+<p>
+PHP is a widely-used, free, and efficient alternative to competitors such as Microsoft's ASP.</p>
+<hr>
+<h2 id="C7">Node.js</h2>
+<p>Node.js is an open source server framework.</p>
+<p>
+Node.js allows you to run JavaScript on the server.
+
+Start learning Node.js now »
+</p>
+
+</body>
+</html>
